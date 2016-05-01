@@ -5,6 +5,9 @@ Survey Builder Sample App
 
 A sample app for a Bleeding Edge Press book.
 
+[Developing a React Edge: The JavaScript Library for User Interfaces, November 1, 2014](http://www.amazon.com/Developing-React-Edge-JavaScript-Interfaces/dp/1939902126/ref=sr_1_1?s=books&ie=UTF8&qid=1462070928&sr=1-1&keywords=developing+a+react+edge)
+[React：引领未来的用户界面开发框架](http://item.jd.com/11688174.html)
+
 ## Installation
 
 ```bash
